@@ -12,3 +12,5 @@
 #### [Упражнение 4](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%202.4.c)
 #### [Упражнение 5](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%202.5.c)
 #### [Упражнение 6](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%202.6.c)
+### Поразрядные операции
+#### [Упражнение 1](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%203.1.c)
