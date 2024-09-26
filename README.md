@@ -48,3 +48,5 @@
 #### [Упражнение 1](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%2011.1.c)
 #### [Упражнение 2](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%2011.2.c)
 #### [Упражнение 3](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%2011.3.c)
+### Массив указателей
+#### [Упражнение 1](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%2012.1.c)
