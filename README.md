@@ -14,3 +14,5 @@
 #### [Упражнение 6](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%202.6.c)
 ### Поразрядные операции
 #### [Упражнение 1](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%203.1.c)
+### Операции присваиванияи
+#### [Упражнение 1](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%204.1.c)
