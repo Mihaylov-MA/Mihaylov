@@ -27,3 +27,8 @@
 #### [Упражнение 2](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%206.2.c)
 #### [Упражнение 3](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%206.3.c)
 #### [Упражнение 4](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%206.4.c)
+### Массивы
+#### [Упражнение 1](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%207.1.c)
+#### [Упражнение 2](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%207.2.c)
+#### [Упражнение 3](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%207.3.c)
+#### [Упражнение 4](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%207.4.c)
