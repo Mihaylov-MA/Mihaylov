@@ -70,7 +70,7 @@
 ### Директива #define и макросы
 #### [Упражнение 1](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%2018.1.c)
 #### [Упражнение 2](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%2018.2.c)
-### Структуры
+## Структуры
 #### [Упражнение 1](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%2019.1.c)
 #### [Упражнение 2](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%2019.2.c)
 ### Указатели на структуры
