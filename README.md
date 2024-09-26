@@ -51,3 +51,18 @@
 ### Массив указателей
 #### [Упражнение 1](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%2012.1.c)
 ## Функции
+### Определение и описание функций
+#### [Упражнение 1](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%2013.1.c)
+#### [Упражнение 2](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%2013.2.c)
+### Параметры функции
+#### [Упражнение 1](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%2014.1.c)
+#### [Упражнение 2](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%2014.2.c)
+### Результат функции
+#### [Упражнение 1](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%2015.1.c)
+#### [Упражнение 2](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%2015.2.c)
+#### [Упражнение 3](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%2015.3.c)
+### Указатели в параметрах функции
+#### [Упражнение 1](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%2016.1.c)
+#### [Упражнение 2](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%2016.2.c)
+### Указатели на функции
+#### [Упражнение 1](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%2017.1.c)
