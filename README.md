@@ -66,3 +66,15 @@
 #### [Упражнение 2](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%2016.2.c)
 ### Указатели на функции
 #### [Упражнение 1](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%2017.1.c)
+## Препроцессор
+### Директива #define и макросы
+#### [Упражнение 1](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%2018.1.c)
+#### [Упражнение 2](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%2018.2.c)
+### Структуры
+#### [Упражнение 1](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%2019.1.c)
+#### [Упражнение 2](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%2019.2.c)
+### Указатели на структуры
+#### [Упражнение 1](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%2020.1.c)
+#### [Упражнение 2](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%2020.2.c)
+### Перечисления
+#### [Упражнение 1](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%2021.1.c)
