@@ -38,9 +38,3 @@
 #### [Упражнение 3](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%208.3.c)
 #### [Упражнение 4](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%208.4.c)
 #### [Упражнение 5](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%208.5.c)
-
-### Массивы
-#### [Упражнение 1](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%207.1.c)
-#### [Упражнение 2](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%207.2.c)
-#### [Упражнение 3](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%207.3.c)
-#### [Упражнение 4](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%207.4.c)
