@@ -24,6 +24,6 @@
 #### [Упражнение 5](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%205.5.c)
 ### Циклы
 #### [Упражнение 1](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%206.1.c)
-#### [Упражнение 1](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%206.2.c)
-#### [Упражнение 1](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%206.3.c)
-#### [Упражнение 1](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%206.4.c)
+#### [Упражнение 2](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%206.2.c)
+#### [Упражнение 3](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%206.3.c)
+#### [Упражнение 4](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%206.4.c)
