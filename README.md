@@ -38,3 +38,13 @@
 #### [Упражнение 3](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%208.3.c)
 #### [Упражнение 4](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%208.4.c)
 #### [Упражнение 5](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%208.5.c)
+## Указатели
+### Что такое указатели
+#### [Упражнение 1](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%209.1.c)
+#### [Упражнение 2](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%209.2.c)
+### Константы и указатели
+#### [Упражнение 1](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%2010.1.c)
+### Указатели, массивы и строки
+#### [Упражнение 1](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%2011.1.c)
+#### [Упражнение 2](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%2011.2.c)
+#### [Упражнение 3](https://github.com/Mihaylov-MA/Mihaylov/blob/main/task%2011.3.c)
